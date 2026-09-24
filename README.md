@@ -3,7 +3,7 @@
 > Substitua os trechos entre colchetes `[ ]` pelas informações reais do trabalho. Remova esta nota e as demais orientações em *itálico* antes da entrega.
 
 [![Status](https://img.shields.io/badge/status-[em_desenvolvimento]-yellow)]()
-[![Versão](https://img.shields.io/badge/versão-[0.1.0]-blue)]()
+[![Versão](https://img.shields.io/badge/versão-[0.0.0]-blue)]()
 [![Licença](https://img.shields.io/badge/licença-[acadêmica]-lightgrey)]()
 
 **Instituição:** CEUB  
